@@ -10,6 +10,7 @@ Je regroupe ici toutes mes notes, exercices et progrès en **informatique, cyber
 - Comprendre la logique des systèmes et du réseau  
 - Me former à la cybersécurité (Bandit, HackTheBox, OSINT)  
 - Construire progressivement un portfolio technique clair  
+- Entrer en BTS SIO SISR en ayant déjà de bonnes bases
 
 --
 
