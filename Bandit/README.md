@@ -14,26 +14,8 @@ Je n’écris pas les solutions complètes, simplement :
 - Les idées d’automatisation ou d’amélioration
 
 
-## 📂 Organisation
-
-- `Jounal/` → Regroupe les niveaux par **compétences communes**
-  - Exemple : navigation, permissions, encodage, compression, etc.
-  - Chaque journal = une fiche courte et claire de ma progression
-
-
-## ✅ Avancement
-| Thème | Statut |
-|------|--------|
-| Navigation & Fichiers | validé |
-| Lecture & affichage | validé |
-| Noms de fichiers spéciaux | validé |
-| Recherche simple (grep/find) | validé |
-| Permissions de base | validé |
-| Redirections / Pipes | validé |
-| Encodage simple | en cours |
-| Compression simple | en cours |
-| Réseau / SSH avancé |   |
-| Scripting / automatisation |  |
+## 📂 où lire ?
+Tout est dans `journal/` : un fichier **par thème** (regroupant plusieurs niveaux).
 
 
 ## 🔧 Environnement
