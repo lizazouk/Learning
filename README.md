@@ -1,5 +1,4 @@
 # 🛡️ Apprentissage Informatique
-![Status](https://img.shields.io/badge/Status-Learning-green)
 
 Bienvenue sur mon dépôt de suivi d'apprentissage ! Je documente ici mes premiers pas dans l'informatique.
 
