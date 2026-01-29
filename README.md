@@ -10,7 +10,7 @@ Aimant l'apprentissage des langues, je vois l'informatique comme un nouveau lang
 ## 📂 Contenu du dossier
 Ce dépôt contient / va contenir mes notes et exercices pratiques réalisés en dehors du cursus scolaire :
 
-* **[CTF] OverTheWire - Bandit :** Résolution des niveaux et apprentissage des commandes Linux (CLI).
+* **[CTF] Wargame : OverTheWire - Bandit :** Résolution des niveaux et apprentissage des commandes Linux (CLI).
 * **[Doc] Cheatsheet :** Récapitulatif personnel des commandes réseau et système indispensables.
 * **[Lab] Projets :** À venir (exercices d'école et projets personnels).
 
