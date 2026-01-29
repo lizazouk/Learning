@@ -1,14 +1,15 @@
 # 🛡️ Apprentissage Informatique
+![Status](https://img.shields.io/badge/Status-Learning-green)
 
 Bienvenue sur mon dépôt de suivi d'apprentissage ! Je documente ici mes premiers pas dans l'informatique.
 
-## 👤 Profil
-* **Formation :** Candidate en Bachelor Cybersécurité (Rentrée 2026).
-* **Démarche :** Auto-formation débutée en Septembre 2025.
-* **Outils :** Linux, Git, Environnement sécurisé (Proton).
+## 👩‍💻 Qui suis je ?
+Une adepte des défis et des casse-têtes qui a décidé de se reconvertir vers la cybersécurité en septembre 2025.
+Pourquoi ? Parce que j'y retrouve une exigence technique, une grande polyvalence, un besoin de rigueur et cette satisfaction de "trouver la faille" ou comprendre les rouages d'un système.
+Aimant l'apprentissage des langues, je vois l'informatique comme un nouveau langage à explorer et un challenge permanent.
 
 ## 📂 Contenu du dossier
-Ce dépôt contient mes notes et exercices pratiques réalisés en dehors du cursus scolaire :
+Ce dépôt contient / va contenir mes notes et exercices pratiques réalisés en dehors du cursus scolaire :
 
 * **[CTF] OverTheWire - Bandit :** Résolution des niveaux et apprentissage des commandes Linux (CLI).
 * **[Doc] Cheatsheet :** Récapitulatif personnel des commandes réseau et système indispensables.
@@ -18,5 +19,3 @@ Ce dépôt contient mes notes et exercices pratiques réalisés en dehors du cur
 1. Consolider mes bases sur l'administration système Linux.
 2. Participer à mes premiers CTF en équipe.
 3. Partager ma progression technique tout au long de mon cursus.
-
-![Status](https://img.shields.io/badge/Status-Learning-green)
