@@ -18,7 +18,7 @@ J'ai démaré ce jeu en Septembre 2025, en parallèle de mon emploi à temps ple
 Il retrace ce que j'apprends durant le jeu et les difficultés rencontrées. 
 **Attention :** Ce fichier ne contient pas les mots de passe, seulement la stratégie et la logique de résolution.
 
-## Méthodologie générale
+### Méthodologie générale
 Pour chaque niveau, ma démarche est la suivante :
 1. Lecture de l'objectif.
 2. Recherche dans le `man` (manuel Linux) des commandes suggérées.
