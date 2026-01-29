@@ -11,3 +11,7 @@ De plus, la langue originelle du jeu est en Anglais, alors le laisser telle quel
 ### Lancement du jeu
 
 J'ai pu démarer ce jeu en Septembre 2025 en parallèle de mon emploi à temps plein.
+
+### Fichier tableau
+
+Dans ce fichier, je retrace ce que j'apprend pendant le jeu, et donc les solutions mais sans les MDP
