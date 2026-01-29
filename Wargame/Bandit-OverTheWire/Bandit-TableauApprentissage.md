@@ -1,4 +1,6 @@
-Ici, le tableau présentant ce que j'ai pu apprendre par niveaux
+# Ce que j'apprend
+
+Ici, un tableau présentant ce que j'ai pu apprendre en fonction des niveau et les difficultés rencontré
 
 
 Niveau | Apprentissage | Commandes | Dificultés rencontrées et astuces
